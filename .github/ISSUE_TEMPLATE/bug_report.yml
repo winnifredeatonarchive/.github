@@ -1,6 +1,6 @@
-name: Feature Request
-description: File a feature request
-title: "[FR]: "
+name: Bug Report
+description: File a bug
+title: "[Bug]: "
 body:
   - type: markdown
     attributes:

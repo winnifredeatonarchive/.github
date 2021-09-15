@@ -1,0 +1,7 @@
+name: Test org action
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Hello from the organization"
